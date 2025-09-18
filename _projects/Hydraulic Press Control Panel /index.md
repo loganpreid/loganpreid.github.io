@@ -11,6 +11,6 @@ skills:
 - Soldering
 - Circuitry
 - Component Selection
-main-image: /FrameAssemblyIso.JPG
+main-image: /_projects/Hydraulic Press Control Panel/PressControlPanelProgress9-18-25.JPG
 
 ---
