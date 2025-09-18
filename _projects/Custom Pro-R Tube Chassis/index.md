@@ -9,7 +9,6 @@ skills:
 - SolidWorks
 - Reverse engineering
 - DFM
-main-image: /ChassisPics (1).png
+main-image: /FrameAssemblyIso.JPG
 
-{% include image-gallery.html images="ChassisPics (1).png" height="400" %}
 ---
