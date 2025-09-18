@@ -9,5 +9,5 @@ skills:
 - SolidWorks
 - Reverse engineering
 - DFM
-main-image: /project.webp 
+main-image: /ChassisPics (1).png
 ---
