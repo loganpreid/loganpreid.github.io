@@ -8,7 +8,7 @@ skills:
 - C++
 - SolidWorks
 - 3D Printing
-- Saudering
+- Soldering
 - Circuitry
 - Component Selection
 main-image: /FrameAssemblyIso.JPG
