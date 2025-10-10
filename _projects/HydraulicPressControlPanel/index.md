@@ -15,4 +15,4 @@ main-image: /PressControlPanelProgress9-18-25.JPG
 
 ---
 
-{% include image-gallery.html images="" height="400" %}
+{% include image-gallery.html images="HydraulicPressControlPanel (1).pdf" height="400" %}
